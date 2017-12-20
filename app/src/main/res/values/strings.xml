@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Egg Timer</string>
+    <string name="egg_image">egg image</string>
+    <string name="default_time">0:30</string>
+</resources>
